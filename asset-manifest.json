@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/freeCodeCamp-React-Cert-Project-3/static/css/main.69e29c7f.css",
+    "main.js": "/freeCodeCamp-React-Cert-Project-3/static/js/main.0c6c2e80.js",
+    "index.html": "/freeCodeCamp-React-Cert-Project-3/index.html",
+    "main.69e29c7f.css.map": "/freeCodeCamp-React-Cert-Project-3/static/css/main.69e29c7f.css.map",
+    "main.0c6c2e80.js.map": "/freeCodeCamp-React-Cert-Project-3/static/js/main.0c6c2e80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69e29c7f.css",
+    "static/js/main.0c6c2e80.js"
+  ]
+}
